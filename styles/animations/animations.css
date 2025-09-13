@@ -1,0 +1,17 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes blueToGray {
+  0% {
+    background-color: #bfe0ff;
+  }
+  100% {
+    background-color: #d8eafd;
+  }
+}

@@ -1,0 +1,23 @@
+.avatar {
+  min-width: 35px;
+  min-height: 35px;
+  max-height: 35px;
+  border-radius: 2px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.avatar_small {
+  min-width: 24.7px;
+  min-height: 24.7px;
+  max-height: 24.7px;
+}
+
+.contact-avatar {
+  background-image: url(../../images/avatar2.svg);
+}
+
+.user-avatar {
+  background-image: url(../../images/avatar1.svg);
+}
