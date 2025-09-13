@@ -34,3 +34,4 @@
 ## Запуск
 
 Открыть index.html в браузере
+[Ссылка на проект](https://kromnik.github.io/travelask-chat-widget/)
